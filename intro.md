@@ -1,0 +1,1 @@
+Este repositorio gurada os exercicios do curso de python da alura: "python-crie-sua-primeira-aplicacao"
