@@ -1,0 +1,1 @@
+# os dicionários são estruturas de dados chave-valor, onde cada chave é associada a um valor.
